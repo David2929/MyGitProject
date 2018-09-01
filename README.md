@@ -1,3 +1,4 @@
 # MyGitProject
 Git practice repository
-Ignore this repository.  It is just for practice and learning of Git. If you want, you can also not ignore it.
+Ignore this repository.  It is just for practice and learning of Git. If you want, you can also not ignore it. Or, you can ignore it like I said.
+Hello Hello
